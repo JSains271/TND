@@ -1,0 +1,53 @@
+﻿capital = 316
+
+oob = "COS_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 10
+
+2000.1.1 = {
+
+	add_political_power = 1
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1998.2.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 90
+	fascism = 5
+	neutrality = 2
+	communism = 3
+}
+
+add_ideas = {
+        disarmed_nation
+}
+
+recruit_character = COS_miguel_rodriguez_echeverria
+recruit_character = COS_abel_pacheco_de_la_espriella
+recruit_character = COS_oscar_arias_sanchez
+recruit_character = COS_laura_chinchilla_miranda
+recruit_character = COS_luis_guillermo_solis_rivera
+recruit_character = COS_carlos_alvarado_quesada
+recruit_character = COS_rodrigo_chaves_robles
+
+create_country_leader = {
+	name = "Miguel Rodriguez Echeverria"
+	desc = COS_miguel_rodriguez_echeverria_desc
+	picture = "gfx/leaders/COS/portrait_cos_miguel_rodriguez_echeverria.dds"
+	expire = "2030.1.1"
+	ideology = conservatism 
+	traits = {
+		#
+	}
+}

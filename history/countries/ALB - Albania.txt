@@ -1,0 +1,59 @@
+﻿capital = 44
+
+OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+add_ideas = {
+               limited_conscription
+               }
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1933.7.1"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 40
+	fascism = 10
+	communism = 20
+	neutrality = 30
+}
+
+set_convoys = 5
+
+
+recruit_character = ALB_rexhep_meidani
+recruit_character = ALB_alfred_moisiu
+recruit_character = ALB_bamir_topi
+recruit_character = ALB_bujar_nishani
+recruit_character = ALB_llir_meta
+recruit_character = ALB_bajram_begaj
+
+create_country_leader = {
+	name = "Rexhep Meidani"
+	desc = "ALB_rexhep_meidani_desc"
+	picture = "gfx/leaders/ALB/portrait_alb_rexhep_meidani.dds"
+	expire = "2030.1.1"
+	ideology = socialism
+	traits = {
+		#
+	}
+}
+
+
+create_field_marshal = {
+	name = "Xhemal Aranitasi"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

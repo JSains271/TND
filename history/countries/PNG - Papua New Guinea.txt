@@ -1,0 +1,56 @@
+﻿capital = 523
+
+oob = "PNG_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+2000.1.1 = {
+	#generic focuses
+
+	set_technology = {
+
+		#doctrines
+
+
+		#electronics
+
+
+		#industry
+	}
+}
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 52
+	fascism = 10
+	communism = 10
+	neutrality = 28
+}
+
+recruit_character = PNG_mekere_morauta
+recruit_character = PNG_michael_somare
+recruit_character = PNG_sam_abal
+recruit_character = PNG_peter_o'neill
+recruit_character = PNG_james_marape
+
+
+create_country_leader = {
+	
+	name = "Mekere Morauta"
+	desc = PNG_mekere_morauta_desc
+	picture = "gfx/leaders/PNG/portrait_png_mekere_morauta.dds"
+	expire = "2020.12.19"
+	ideology = centrist 
+	traits = {
+		#
+	}
+}

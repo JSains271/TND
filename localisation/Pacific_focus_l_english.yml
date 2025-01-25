@@ -1,0 +1,17 @@
+﻿l_english:
+ ## [Root.GetNameDef]
+ ## [ROOT.GetNonIdeologyName]
+ 
+ #Shared PACIFIC
+ PACIFIC_immigration_ads:0 "Immigration Ads"
+ PACIFIC_immigration_ads_desc:0 "In order for [ROOT.GetNonIdeologyName] to become a powerhouse, we need more people. I say we post some ads about our beaches and ignore everything else."
+ Welcome_to_PACIFIC:0 "Welcome to the Pacific!"
+ Welcome_to_PACIFIC_desc:0 "Welcome to the Pacific, where the beaches may be gold, but not much else. I think we should change that, don't you? [ROOT.GetNonIdeologyName] is going to be the next Pacific powerhouse and rule this desolate part of the world."
+ PACIFIC_align_China:0 "Align with China"
+ PACIFIC_align_China_desc:0 "Align with the communists in China and guarantee their independence"
+ PACIFIC_align_Iraq:0 "Align with Iraq"
+ PACIFIC_align_Iraq_desc:0 "Align Iraq and guarantee their independence"
+ PACIFIC_align_Saudis:0 "Align with Saudis"
+ PACIFIC_align_Saudis_desc:0 "Align with the Saudis and guarantee their independence"
+ PACIFIC_align_USA:0 "Align with USA"
+ PACIFIC_align_USA_desc:0 "Align with the USA and guarantee their independence"

@@ -1,0 +1,51 @@
+﻿capital = 853
+
+set_research_slots = 3
+
+# Starting tech
+# clone of Yugoslavia
+set_technology = {
+	tech_support = 1
+	tech_engineers = 1
+	tech_mountaineers = 1
+	early_fighter = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_submarine = 1
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 78
+	fascism = 5
+	communism = 12
+	neutrality = 5
+}
+
+        add_ideas = {
+               limited_conscription
+               }
+
+recruit_character = SLV_milan_kučan
+recruit_character = SLV_janez_drnovsek
+recruit_character = SLV_danilo_turk
+recruit_character = SLV_borut_pahor
+recruit_character = SLV_natasa_pirc_musar
+
+create_country_leader = {
+	name = "Milan Kučan"
+	desc = SLV_milan_kučan_desc
+	picture = "gfx/leaders/SLV/portrait_slv_milan_kucan.dds"
+	expire = "2030.1.1"
+	ideology = socialism
+}

@@ -1,0 +1,32 @@
+characters = {
+	VEN_hugo_chavez = {
+		name = VEN_hugo_chavez
+		portraits = {
+			civilian = {
+				large=GFX_portrait_VEN_hugo_chavez_large
+                                small=GFX_portrait_VEN_hugo_chavez_small
+			}
+		}
+		country_leader = {
+			ideology = socialism 
+			expire = "2013.3.5"
+			id = -1
+		}
+	}
+
+VEN_nicolas_maduro = {
+		name = VEN_nicolas_maduro
+		portraits = {
+			civilian = {
+				large=GFX_portrait_VEN_nicolas_maduro_large
+                                small=GFX_portrait_VEN_nicolas_maduro_small
+			}
+		}
+		country_leader = {
+			ideology = socialism 
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,18 @@
+﻿###########################
+# News Events
+###########################
+
+add_namespace = MajorWorldNews
+
+# 9/11
+news_event = {
+	id = MajorWorldNews.911_Bombing
+	title = "A world Tragedy!"
+	desc = MajorWorldNews.911_Bombing.1.d
+	picture = GFX_911_bombing
+	
+	major = yes
+	fire_only_once = yes
+	option = "How devestating!"
+
+}

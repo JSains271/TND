@@ -1,0 +1,52 @@
+﻿capital = 304
+
+oob = "PAN_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 10
+
+
+2000.1.1 = {
+	set_politics = {
+		ruling_party = democratic 
+		last_election = "1999.5.2"
+		election_frequency = 60
+		elections_allowed = yes
+	}
+
+set_popularities = {
+	democratic = 69
+	fascism = 16
+	communism = 5
+	neutrality = 10
+}
+
+
+
+add_ideas = {
+        disarmed_nation
+}
+
+
+recruit_character = PAN_mireya_moscoso
+recruit_character = PAN_martin_torrijos
+recruit_character = PAN_ricardo_martinelli
+recruit_character = PAN_juan_carlos_varela
+recruit_character = PAN_laurentino_cortizo
+
+	create_country_leader = {
+		name = "Mireya Moscoso"
+		desc = PAN_mireya_moscoso_desc
+		picture = "gfx/leaders/PAN/portrait_pan_mireya_moscoso.dds""
+		expire = "2030.1.1"
+		ideology = conservatism 
+		traits = {
+			#
+		}
+	}
+}

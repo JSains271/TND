@@ -1,0 +1,81 @@
+﻿capital = 430
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+2000.1.1 = {
+	#generic focuses
+
+	
+	set_technology = {
+
+		#doctrines
+		grand_battle_plan = 1
+		trench_warfare = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		radio_detection = 1
+		mechanical_computing = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		fuel_silos = 1
+		construction1 = 1
+		construction2 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+	}
+}
+set_politics = {
+	ruling_party = democratic 
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 51
+	fascism = 10
+	communism = 10
+	neutrality = 29
+}
+
+recruit_character = BAN_sheikh_hasina
+recruit_character = BAN_khaleda_zia
+
+create_country_leader = {
+	name = "Sheikh Hasina"
+	desc = BAN_sheikh_hasina_desc
+	picture = "gfx/leaders/BAN/portrait_ban_sheikh_hasina.dds"
+	expire = "2030.1.1"
+	ideology = socialism 
+
+}
+
+
+}
+
+
+1939.1.1 = {
+	set_politics = {
+		ruling_party = democratic
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+	set_popularities = {
+		democratic = 75
+		fascism = 1
+		communism = 1
+		neutrality = 23
+	}
+}

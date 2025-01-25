@@ -1,0 +1,138 @@
+characters={
+	GUA_alvaro_arzu={
+		name=GUA_alvaro_arzu
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_alvaro_arzu_large
+                                small=GFX_portrait_GUA_alvaro_arzu_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2018.4.27.1"
+			id=-1
+		}
+	}
+
+
+	GUA_alfonso_portillo={
+		name=GUA_alfonso_portillo
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_alfonso_portillo_large
+                                small=GFX_portrait_GUA_alfonso_portillo_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_oscar_berger={
+		name=GUA_oscar_berger
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_oscar_berger_large
+                                small=GFX_portrait_GUA_oscar_berger_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_alvaro_colom={
+		name=GUA_alvaro_colom
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_alvaro_colom_large
+                                small=GFX_portrait_GUA_alvaro_colom_small
+			}
+		}
+		country_leader={
+			ideology= socialism 
+			expire="2023.1.23.1"
+			id=-1
+		}
+	}
+
+	GUA_otto_perez_molina={
+		name=GUA_otto_perez_molina
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_otto_perez_molina_large
+                                small=GFX_portrait_GUA_otto_perez_molina_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_alejandro_maldonado={
+		name=GUA_alejandro_maldonado
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_alejandro_maldonado_large
+                                small=GFX_portrait_GUA_alejandro_maldonado_small
+			}
+		}
+		country_leader={
+			ideology= indepedent 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_jimmy_morales={
+		name=GUA_jimmy_morales
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_jimmy_morales_large
+                                small=GFX_portrait_GUA_jimmy_morales_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_alejandro_giammattei={
+		name=GUA_alejandro_giammattei
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_alejandro_giammattei_large
+                                small=GFX_portrait_GUA_alejandro_giammattei_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	GUA_bernardo_arevalo={
+		name=GUA_bernardo_arevalo
+		portraits={
+			civilian={
+				large=GFX_portrait_GUA_bernardo_arevalo_large
+                                small=GFX_portrait_GUA_bernardo_arevalo_small
+			}
+		}
+		country_leader={
+			ideology= liberalism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+}

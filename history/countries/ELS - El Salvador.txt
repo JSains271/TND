@@ -1,0 +1,47 @@
+﻿capital = 314
+
+oob = "ELS_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	early_fighter = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 5
+
+
+set_politics = {
+	ruling_party = democratic 
+	last_election = "1999.3.7"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 53
+	fascism = 10
+	communism = 10
+	neutrality = 27
+}
+
+add_ideas = {
+         limited_conscription
+}
+
+recruit_character = ELS_francisco_flores_perez
+recruit_character = ELS_antonio_saca
+recruit_character = ELS_mauricio_funes
+recruit_character = ELS_salvador_sanchez_ceren
+recruit_character = ELS_nayib_bukele
+
+create_country_leader = {
+	name = "Francisco Flores Perez"
+	desc = ELS_francisco_flores_perez_desc
+	picture = "gfx/leaders/ELS/portrait_els_francisco_flores_perez.dds"
+	expire = "2016.1.30"
+	ideology = conservatism 
+	traits = {
+		#
+	}
+}

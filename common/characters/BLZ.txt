@@ -1,0 +1,48 @@
+characters = {
+	BLZ_said_musa={
+		name=BLZ_said_musa
+		portraits={
+			civilian={
+				large=GFX_portrait_BLZ_said_musa_large
+                                small=GFX_portrait_BLZ_said_musa_small
+			}
+		}
+		country_leader={
+			ideology= centrist 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+	BLZ_dean_barrow={
+		name=BLZ_dean_barrow
+		portraits={
+			civilian={
+				large=GFX_portrait_BLZ_dean_barrow_large
+                                small=GFX_portrait_BLZ_dean_barrow_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+
+
+	BLZ_johnny_briceno={
+		name=BLZ_johnny_briceno
+		portraits={
+			civilian={
+				large=GFX_portrait_BLZ_johnny_briceno_large
+                                small=GFX_portrait_BLZ_johnny_briceno_small
+			}
+		}
+		country_leader={
+			ideology= centrist 
+			expire="2030.1.1.1"
+			id=-1
+		}
+	}
+}
+	

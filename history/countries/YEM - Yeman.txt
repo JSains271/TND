@@ -1,0 +1,75 @@
+﻿capital = 293
+
+oob = "YEM_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+
+set_war_support = 0.1
+set_stability = 0.8
+set_convoys = 5
+1939.1.1 = {
+
+	add_political_power = 1
+	
+	#generic focuses
+	
+	oob = "YEM_1939"
+	set_technology = {
+		#doctrines
+		grand_battle_plan = 1
+		trench_warfare = 1
+		fleet_in_being = 1
+		battlefleet_concentration = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		radio_detection = 1
+		mechanical_computing = 1
+		computing_machine = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		construction1 = 1
+		construction2 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+	}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 4
+	fascism = 10
+	communism = 10
+	neutrality = 76
+}
+
+add_ideas = {
+         limited_conscription
+}
+
+recruit_character = YEM_ali_abdullah_saleh
+recruit_character = YEM_abdrabbuh_mansur_hadi
+recruit_character = YEM_rashad_al-alimi
+
+create_country_leader = {
+	name = "Ali Abdullah Saleh"
+	desc = YEM_ali_abdullah_saleh_desc
+	picture = "gfx/leaders/YEM/portrait_yem_ali_abdullah_saleh.dds"
+	expire = "2017.3.21"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

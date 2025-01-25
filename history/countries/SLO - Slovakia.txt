@@ -1,0 +1,58 @@
+﻿capital = 70
+
+oob = "SLO_1939"
+
+set_technology = {
+	gw_artillery = 1
+	interwar_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	infantry_weapons2 = 1
+	support_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+	tech_mountaineers = 1
+	tech_engineers = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+}
+
+set_politics = {
+	ruling_party = democratic 
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 83
+	neutrality = 6
+	communism = 10
+	fascism = 1
+}
+
+add_ideas = {
+        limited_conscription
+}
+
+recruit_character = SLO_mikulas_dzurinda
+recruit_character = SLO_robert_fico
+recruit_character = SLO_iveta_radicova
+recruit_character = SLO_peter_pellegrini
+recruit_character = SLO_igor_matovic
+recruit_character = SLO_eduard_heger
+recruit_character = SLO_l'udovit_odor
+
+create_country_leader = {
+	name = "Mikuláš Dzurinda"
+	desc = SLO_mikulas_dzurinda_desc
+	picture = "gfx/leaders/SLO/portrait_slo_mikulas_dzurinda.dds"
+	expire = "2030.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}

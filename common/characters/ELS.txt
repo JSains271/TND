@@ -1,0 +1,82 @@
+characters={
+	ELS_francisco_flores_perez={
+		name=ELS_francisco_flores_perez
+		portraits={
+			civilian={
+				large=GFX_portrait_ELS_francisco_flores_perez_large
+                                small=GFX_portrait_ELS_francisco_flores_perez_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			traits=
+			expire="2016.1.30"
+			id=-1
+		}
+	}
+
+	ELS_antonio_saca={
+		name=ELS_antonio_saca
+		portraits={
+			civilian={
+				large=GFX_portrait_ELS_antonio_saca_large
+                                small=GFX_portrait_ELS_antonio_saca_small
+			}
+		}
+		country_leader={
+			ideology= conservatism 
+			traits=
+			expire="2030.1.1"
+			id=-1
+		}
+	}
+
+	ELS_mauricio_funes={
+		name=ELS_mauricio_funes
+		portraits={
+			civilian={
+				large=GFX_portrait_ELS_mauricio_funes_large
+                                small=GFX_portrait_ELS_mauricio_funes_small
+			}
+		}
+		country_leader={
+			ideology= socialism 
+			traits=
+			expire="2030.1.1"
+			id=-1
+		}
+	}
+
+	ELS_salvador_sanchez_ceren={
+		name=ELS_salvador_sanchez_ceren
+		portraits={
+			civilian={
+				large=GFX_portrait_ELS_salvador_sanchez_ceren_large
+                                small=GFX_portrait_ELS_salvador_sanchez_ceren_small
+			}
+		}
+		country_leader={
+			ideology= socialism 
+			traits=
+			expire="2030.1.1"
+			id=-1
+		}
+	}
+
+	ELS_nayib_bukele={
+		name=ELS_nayib_bukele
+		portraits={
+			civilian={
+				large=GFX_portrait_ELS_nayib_bukele_large
+                                small=GFX_portrait_ELS_nayib_bukele_small
+			}
+		}
+		country_leader={
+			ideology= centrist 
+			traits=
+			expire="2030.1.1"
+			id=-1
+		}
+	}
+
+}
