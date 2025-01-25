@@ -11,7 +11,7 @@ characters={
 			ideology=socialism 
 			traits=
 			expire="2030.1.1"
-			id=-1
+			id = -1
 		}
 	}
 
@@ -27,7 +27,7 @@ characters={
 			ideology=conservatism
 			traits=
 			expire="2030.1.1"
-			id=-1
+			id = -1
 		}
 	}
 
@@ -43,7 +43,7 @@ characters={
 			ideology=socialism
 			traits=
 			expire="2030.1.1"
-			id=-1
+			id = -1
 		}
 	}
 
