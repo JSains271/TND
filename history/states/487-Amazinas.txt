@@ -2,7 +2,7 @@
 state={
 	id=487
 	name="STATE_487"
-	manpower = 4004722
+	manpower = 5707000
 	
 	state_category = pastoral
 
@@ -13,6 +13,15 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = BOL
+		victory_points = {
+			12973 20
+		}
+		victory_points = {
+			8240 10
+		}
+		victory_points = {
+			8211 10
+		}
 	}
 
 	provinces={

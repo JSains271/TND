@@ -6,7 +6,10 @@ state={
 		owner = TUN
 		add_core_of = TUN
 		victory_points = {
-			7005 1 
+			7005 10 
+		}
+		victory_points = {
+			11935 8
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,6 +22,6 @@ state={
 	provinces={
 		1105 3987 4992 7005 9983 10026 10082 11935 11957 12000 13145 13179 
 	}
-	manpower=427824
+	manpower=1724000
 	buildings_max_level_factor=1.000
 }

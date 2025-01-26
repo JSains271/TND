@@ -1193,6 +1193,21 @@
 # Central America
  VICTORY_POINTS_4450:0 "St John's"
  VICTORY_POINTS_11350:0 "Bridgetown"
+ 
+# South America
+ VICTORY_POINTS_13302:0 "Calama"
+ VICTORY_POINTS_8194:0 "La Serena"
+ VICTORY_POINTS_8161:0 "Esquel"
+ VICTORY_POINTS_13305:0 "Comodoro Rivadavia"
+ VICTORY_POINTS_5219:0 "Santa Rosa de Toay"
+ VICTORY_POINTS_1654:0 "Florida"
+ VICTORY_POINTS_12973:0 "Santa Cruz"
+ VICTORY_POINTS_8240:0 "Cochabamba"
+ VICTORY_POINTS_8211:0 "Trinidad"
+ VICTORY_POINTS_5179:0 "Sucre"
+ 
+# Africa
+ VICTORY_POINTS_11935:0 "Gafsa"
 
 
 # Indian subcontinent

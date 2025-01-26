@@ -15,7 +15,11 @@ state={
 		add_core_of = RAJ
 		victory_points = {
 			10278 8
+		}
+		victory_points = {
 			12247 20
+		}
+		victory_points = {
 			1321 10
 		}
 		buildings = {

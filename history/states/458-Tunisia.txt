@@ -2,7 +2,7 @@
 state={
 	id=458
 	name="STATE_458"
-	manpower = 1982940
+	manpower = 10077000
 	state_category = town
 	resources={
 		steel=6 # was: 8
@@ -12,13 +12,13 @@ state={
 		owner = TUN
 		add_core_of = TUN
 		victory_points = {
-			11969 10 
+			11969 30
 		}
 		victory_points = {
-			9994 1 
+			9994 8
 		}
 		victory_points = {
-			11921 1 
+			11921 20 
 		}
 		buildings = {
 			infrastructure = 4
